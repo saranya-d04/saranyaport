@@ -1,0 +1,9 @@
+.technical-skills {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+}
+.technical-skills ul {
+  list-style-type: circle;
+  padding-left: 20px;
+}
